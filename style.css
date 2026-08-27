@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 850px;
+  margin: auto;
+  padding: 30px;
+  line-height: 1.6;
+}
+
+header, footer {
+  text-align: center;
+}
+
+nav {
+  margin-top: 16px;
+}
+
+nav a {
+  margin: 0 8px;
+}
+
+main {
+  margin: 30px 0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
